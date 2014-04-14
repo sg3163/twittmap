@@ -18,10 +18,10 @@ public class SimpleStream {
     public static void main(String[] args) {
         ConfigurationBuilder cb = new ConfigurationBuilder();
         cb.setDebugEnabled(true);
-        cb.setOAuthConsumerKey("53rZh9JxfVmJVNf0lJ1LjWDa7");
-        cb.setOAuthConsumerSecret("zBcqlQ2mhH1yqxY1hvrH2kItrE0ncVOcvVuSgdJgq28kJeX937");
-        cb.setOAuthAccessToken("2387480428-qecBzvVSDvBaREtqPFcBG4c7rEmbsvPsSktJfWl");
-        cb.setOAuthAccessTokenSecret("pAbNnRli4HENnPUDskFr2zyFPY2Lipy9H6uSgrHh1dXln");
+        cb.setOAuthConsumerKey("asdf");
+        cb.setOAuthConsumerSecret("asdf");
+        cb.setOAuthAccessToken("asd-af");
+        cb.setOAuthAccessTokenSecret("af");
 
         TwitterStream twitterStream = new TwitterStreamFactory(cb.build()).getInstance();
 

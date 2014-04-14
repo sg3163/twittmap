@@ -20,10 +20,10 @@ public class TwitterDownloader {
 	public static void main(String args[]) throws IOException {
 		ConfigurationBuilder cb = new ConfigurationBuilder();
 		cb.setDebugEnabled(true)
-		.setOAuthConsumerKey("53rZh9JxfVmJVNf0lJ1LjWDa7")  // Copy all the twitter API keys accordingly
-		.setOAuthConsumerSecret("zBcqlQ2mhH1yqxY1hvrH2kItrE0ncVOcvVuSgdJgq28kJeX937")
-		.setOAuthAccessToken("2387480428-qecBzvVSDvBaREtqPFcBG4c7rEmbsvPsSktJfWl")
-		.setOAuthAccessTokenSecret("pAbNnRli4HENnPUDskFr2zyFPY2Lipy9H6uSgrHh1dXln");
+		.setOAuthConsumerKey("asdf")  // Copy all the twitter API keys accordingly
+		.setOAuthConsumerSecret("asdf")
+		.setOAuthAccessToken("asdf-asdf")
+		.setOAuthAccessTokenSecret("afds");
 
 		// The factory instance is re-useable and thread safe.
 		Twitter twitter = new TwitterFactory(cb.build()).getInstance();
