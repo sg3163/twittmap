@@ -33,5 +33,19 @@
 	<classpathentry kind="lib" path="war/WEB-INF/lib/spring-tx-4.0.3.RELEASE.jar"/>
 	<classpathentry kind="lib" path="war/WEB-INF/lib/spring-web-4.0.3.RELEASE.jar"/>
 	<classpathentry kind="lib" path="war/WEB-INF/lib/spring-webmvc-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/twitter4j-core-4.0.1.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/twitter4j-examples-4.0.1.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/twitter4j-media-support-4.0.1.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/twitter4j-stream-4.0.1.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/jackson-core-asl-1.7.1.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/jackson-jaxrs-1.7.1.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/jackson-mapper-asl-1.7.1.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/jackson-xc-1.7.1.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/jaxb-api-2.2.2.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/jaxb-impl-2.2.3-1.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/jettison-1.1.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/stax-api-1.0-2.jar"/>
 	<classpathentry kind="output" path="war/WEB-INF/classes"/>
 </classpath>
